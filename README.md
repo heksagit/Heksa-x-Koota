@@ -193,7 +193,7 @@ http://103.58.146.64/heksaapi/api/koota/checkdata
 ____________________________________________________________________
 
 #### Pernyataan Pekerjaan
-Pernyataan dibawah ini merupakan pernyataan kamu/calon tertanggung mengenai persyaratan produk Heksa DOA Dompet Asuransi
+Pernyataan dibawah ini merupakan pernyataan kamu/calon tertanggung mengenai persyaratan produk Asuransi Mikro Perisai Diri Ekstra
 ___________________________________________________________
 - Saya/Calon Tertanggung bukanlah Anggota Pasukan Khusus/Elite TNI/POLRI
 - Saya/Calon Tertanggung bukanlah Pilot, Pramugari atau Mahasiswa Penerbangan
@@ -206,7 +206,7 @@ ___________________________________________________________
 ____________________________________________________________________
 
 #### Pernyataan Kesehatan
-Pernyataan dibawah ini merupakan pernyataan kamu/calon tertanggung mengenai persyaratan produk Heksa DOA Dompet Asuransi
+Pernyataan dibawah ini merupakan pernyataan kamu/calon tertanggung mengenai persyaratan produk HAsuransi Mikro Perisai Diri Ekstra
 ___________________________________________________________
 - Saya/Calon Tertanggung sehat, tidak sedang dirawat di Rumah Sakit
 - Saya/Calon Tertanggung tidak  pernah atau sedang menderita salah satu dari penyakit, gejala penyakit / kelainan yang berhubungan dengan : cacat / kelumpuhan, tumor / kanker / kista, TBC atau penyakit paru lainnya, asma, Diabetes, penyakti Hati, penyakit Ginjal, penyakit Jantung, penyakit Jantung bawaan, Stroke / mini stroke, Hipertensi, gangguan jiwa, pencangkokan organ tubuh, HIV / AIDS, penyakit kritis bawaan sejak lahir / kongenital, penyakit darah dan pembuluh darah, penyakit Autoimune dan Kolesterolemia.
